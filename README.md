@@ -1,7 +1,7 @@
 # cem_veci_del
 Url Maq.Principal: ../cem_veci_del/web/front/ <br>
 Url importar: ../cem_veci_del/web/importar/?file=VECI_prueba_import.csv <br>
-Url importar alertas: ../cem_veci_del/web/importar/alertas?file= <br>
+Url importar alertas: ../cem_veci_del/web/importar/alertas?file=Encuesta_update_100117.csv <br>
 Mi nueva url de importacion es: ../cem_veci_del/web/importar/ <br>
 Url Exportar: ../cem_veci_del/web/export/encuestas <br>
 Url generar encuesta: ../cem_veci_del/web/survey_data/encuesta/generar_encuesta <br>
